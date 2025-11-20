@@ -6,6 +6,7 @@ This repository documents my learning in AWS, focusing on Compute, Storage, Netw
 ---
 
 # 🏆 Badges
+*Coming soon...
 
 ---
 
@@ -60,6 +61,7 @@ This repo serves as documentation and public record of my courses and progress m
 
 ## 📝 Summaries
 Full detailed notes on each topic can be found in the dedicated folder (Notes) within this Repository.
+*Coming soon...
 
 
 ---
