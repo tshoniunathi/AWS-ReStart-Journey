@@ -61,8 +61,30 @@ This repo serves as documentation and public record of my courses and progress m
 
 ## 📝 Summaries
 Full detailed notes on each topic can be found in the dedicated folder (Notes) within this Repository.
-*Coming soon...
 
+### **Cloud Foundations**
+- Cloud Computing- delivery of computing services over the internet, with pay as you go convinience.
+- Cloud Deployment Models- Puplic Cloud, Private Cloud & Hybrid Cloud.
+- Cloud Service Models- IaaS, Paas & SaaS
+- AWS Global Infrastructure- Regions, Availability Zones, Edge Locations.etc...
+- Shared Responsibility Model- AWS VS Customer
+- Core AWS Services- Compute, Storage, Databases, Networking & Security
+- Elasiticity, Scalability & High Availability
+- Pricing & Cost Optimisation - tools & best practices
+
+### **Linux**
+- Open source operating system used in servers, cloud environments, cybersecurity and DevOps.
+- Important for AWS Services- EC2, Lambda runtimes & containers
+- Most cloud servers run Linux
+- Essential for automation, scripting, and DevOps
+- Needed for managing files, processes, networking, permissions, and users
+
+
+
+---
+
+## 🖇️ Links to Projects
+- **Lab 1:** Hosting a static website in S3
 
 ---
 
