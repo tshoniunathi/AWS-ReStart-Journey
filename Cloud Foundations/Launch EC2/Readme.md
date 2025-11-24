@@ -1,4 +1,4 @@
-# Lab: Launching an EC2 Instance
+<img width="1910" height="715" alt="image" src="https://github.com/user-attachments/assets/01537b1d-ba5e-486a-9381-dfcc0e58e0a7" /># Lab: Launching an EC2 Instance
 
 ## Overview
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. This lab shows an overview of launching, resizing, managing, and monitoring an Amazon EC2 instance.
@@ -20,3 +20,12 @@ In management console &rarr; services &rarr; EC2 &rarr; name instance &rarr; cho
 ### **TASK 2: Mornitor the instance**
 Monitoring is important in the maintainance of the reliability, availability and performance of an EC2 instance.
 select instance (check box next to instance) &rarr; navigate to status check tab (bootom of the page) &rarr; !NOTE: systems and instance reachability should pass &rarr; monitoring tab &rarr; Actions menu &rarr; monitor and troubleshoot &rarr; Get screenshot
+
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/632bcb19885ff8ce83eedfa213738a28f4c57030/Cloud%20Foundations/Launch%20EC2/LAUNCH%20EC2%206.png)
+
+## **TASK3: Update security group and access webserver**
+In this task, content was accessed from webserver.
+1. Select instance (check box) &rarr; select detals tab &rarr;copy public IP address to clipboard &rarr; in new tab, paste IP and enter.
+!NOTE: cammpt access server because security group is not allowing inbound traffic on port 80
+2. In management console &rarr; Network & security (left pane) &rarr; security groups &rarr; webserver security group (check box) &rarr; select inbound rules &rarr; add rule &rarr; configure type and source &rarr; save rules
+
