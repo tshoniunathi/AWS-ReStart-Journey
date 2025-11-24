@@ -1,4 +1,4 @@
-# Lab: Launching an EC2 Instance
+#  💾 Lab: Launching an EC2 Instance
 
 ## Overview
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. This lab shows an overview of launching, resizing, managing, and monitoring an Amazon EC2 instance.
