@@ -20,6 +20,11 @@ Do the following:
    ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/58e89a741381d5479842ac5bcd6f9836c58118a8/Linux/Bash%20Cell%20Scripting/Images/Bash%20Cell%20Scripting%202.png)
    
 4. In terminal: Execute chmod+x create_files.sh &rarr; Run Script ,/create_files.sh for 25 files &rarr; run again for 50 files
+   ![images alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/a6bcf8e802bfc353437349c527c55ebe9777d79b/Linux/Bash%20Cell%20Scripting/Images/Bash%20Cell%20Scripting%203.png)
+
+## Conclusion
+Using Bash shell scripting to create directories saves time and also reduces human error in file management. It highlights the ability to automate routine tasks, demonstrating a fundamental and practical Linux skill that is valuable in both development and system administration.
+
 
 
 
