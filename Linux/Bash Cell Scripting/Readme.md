@@ -8,6 +8,8 @@ This lab showcases the creation of a directory using bash cell scripting, allowi
 ### **Task 1: Use SSH to connect to an Amazon Linux EC 2 Instance**
 Download PuTTY and configure SSH using the provided .ppk or .pem and public IP, depending on operating system.
 
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/c77e3d503e95df36fae5d80367c05361145d5299/Linux/Bash%20Cell%20Scripting/Images/Bash%20Cell%20Scripting%201.png)
+
 ### **Task 2: Challenge
 Write a bash script creating 25 empty files. the script should be designed such that everytime it ran it creates the next batch of 25 files with increasing numbers, but starting with the ones that already exist.
 
