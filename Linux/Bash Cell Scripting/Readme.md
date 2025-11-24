@@ -10,7 +10,7 @@ Download PuTTY and configure SSH using the provided .ppk or .pem and public IP, 
 
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/c77e3d503e95df36fae5d80367c05361145d5299/Linux/Bash%20Cell%20Scripting/Images/Bash%20Cell%20Scripting%201.png)
 
-### **Task 2: Challenge
+### **Task 2: Challenge**
 Write a bash script creating 25 empty files. the script should be designed such that everytime it ran it creates the next batch of 25 files with increasing numbers, but starting with the ones that already exist.
 
 Do the following:
@@ -20,6 +20,7 @@ Do the following:
    ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/58e89a741381d5479842ac5bcd6f9836c58118a8/Linux/Bash%20Cell%20Scripting/Images/Bash%20Cell%20Scripting%202.png)
    
 4. In terminal: Execute chmod+x create_files.sh &rarr; Run Script ,/create_files.sh for 25 files &rarr; run again for 50 files
+   
    ![images alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/a6bcf8e802bfc353437349c527c55ebe9777d79b/Linux/Bash%20Cell%20Scripting/Images/Bash%20Cell%20Scripting%203.png)
 
 ## Conclusion
