@@ -5,9 +5,14 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizab
 
 Amazon EC2 makes it easy to set up and manage the computing power  needed with very little friction. It gives full control over resources, all running on Amazon’s reliable infrastructure. It cuts the time it takes to launch new server instances down to just a few minutes, which makes scaling up or down simple as your requirements change.
 
-Amazon EC2 shifts the way  computing costs are handled by letting customers pay only for the capacity they actually use. It also gives developers the tools they need to build applications that can handle failures and stay isolated from common issues, making systems more resilient overall.
+Amazon EC2 shifts the way computing costs are handled by letting customers pay only for the capacity they actually use. It also gives developers the tools they need to build applications that can handle failures and stay isolated from common issues, making systems more resilient overall.
 
 ## Architecture Diagrams
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/a18ad36cd5c1532a6bf7faede79f39d3721b4dc7/Cloud%20Foundations/Launch%20EC2/Launch%20EC2%202%20image.png)
 
+##Steps taken to Achieve this
+ ### **TASK 1: Launching an instance**
+In this task, an EC2 instance was launched, with termination protection to avoid accidentally terminating the EC2 instance.
+In management console &rarr; services &rarr; EC2 &rarr; name instance &rarr; choose an AMI &rarr; choose instance type &rarr; configure key pair &rarr; configure network settings &rarr; add storage &rarr; configure advanced details &rarr; launch
+ 
 
