@@ -15,4 +15,4 @@ Amazon EC2 shifts the way computing costs are handled by letting customers pay o
 In this task, an EC2 instance was launched, with termination protection to avoid accidentally terminating the EC2 instance.
 In management console &rarr; services &rarr; EC2 &rarr; name instance &rarr; choose an AMI &rarr; choose instance type &rarr; configure key pair &rarr; configure network settings &rarr; add storage &rarr; configure advanced details &rarr; launch
  
-
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/4a3dac6396edbe3451e9b4c4e02ba6aec9afa6dd/Cloud%20Foundations/Launch%20EC2/LAUNCH%20EC2%205.png)
