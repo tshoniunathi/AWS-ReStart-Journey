@@ -10,7 +10,7 @@ Amazon EC2 shifts the way computing costs are handled by letting customers pay o
 ## Architecture Diagrams
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/a18ad36cd5c1532a6bf7faede79f39d3721b4dc7/Cloud%20Foundations/Launch%20EC2/Launch%20EC2%202%20image.png)
 
-##Steps taken to Achieve this
+##Steps taken to Achieve this:
  ### **TASK 1: Launching an instance**
 In this task, an EC2 instance was launched, with termination protection to avoid accidentally terminating the EC2 instance.
 In management console &rarr; services &rarr; EC2 &rarr; name instance &rarr; choose an AMI &rarr; choose instance type &rarr; configure key pair &rarr; configure network settings &rarr; add storage &rarr; configure advanced details &rarr; launch
@@ -33,14 +33,27 @@ In this task, content was accessed from webserver.
 
 ## **TASK 4: Resize instance** 
 changing an instance in case its too small (over-utilised) or too large (under-utilised).
+
 **Stop instance**
-On management console &rarr; select instances (left pane) &rarr; selec webserver (checkbox) &rarr; select instant state &rarr; stop instance
+On management console &rarr; select instances (left pane) &rarr; selec webserver (checkbox) &rarr; select instant state &rarr; stop instance.
+
 **Change instant type**
 In Actions menu &rarr; selectect instance settings &rarr; instance type &rarr; configure to new instance size &rarr; change instance type.
+
 **Resize EBS Volume
-Under Elastic Block Store (left pane) &rarr; volumes &rarr; check box &rarr; go to Actions &rarr; modify volume 
+Under Elastic Block Store (left pane) &rarr; volumes &rarr; check box &rarr; go to Actions &rarr; modify volume. 
+
 **Start resized instance**
 Go back to instance &rarr; select webserver (check box) &rarr; instance state &rarr; start instance.
+
+![image alt] (https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dcdd3d43c209d35c9d7dc94b8f23d27c75ec3ddd/Cloud%20Foundations/Launch%20EC2/CHANGE%20INSTANCE%20TYPE.png)
+
+### TASK 5: Test termination protection
+When an instance is no longer needed, it can be deleted AKA terminated. once terminated, cannot be restarted or connected.
+
+In instances &rarr; select webserver (check box) &rarr; actions menu &rarr; instance settings &rarr; change termination protection &rarr; uncheck enable &rarr; save
+
+Select webserver (check box) &rarr;instance state &rarr; terminate (delete) instance. 
 
 
 
