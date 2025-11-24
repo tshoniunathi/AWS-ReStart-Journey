@@ -16,3 +16,7 @@ In this task, an EC2 instance was launched, with termination protection to avoid
 In management console &rarr; services &rarr; EC2 &rarr; name instance &rarr; choose an AMI &rarr; choose instance type &rarr; configure key pair &rarr; configure network settings &rarr; add storage &rarr; configure advanced details &rarr; launch
  
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/4a3dac6396edbe3451e9b4c4e02ba6aec9afa6dd/Cloud%20Foundations/Launch%20EC2/LAUNCH%20EC2%205.png)
+
+### **TASK 2: Mornitor the instance**
+Monitoring is important in the maintainance of the reliability, availability and performance of an EC2 instance.
+select instance (check box next to instance) &rarr; navigate to status check tab (bootom of the page) &rarr; !NOTE: systems and instance reachability should pass &rarr; monitoring tab &rarr; Actions menu &rarr; monitor and troubleshoot &rarr; Get screenshot
