@@ -31,3 +31,17 @@ In this task, content was accessed from webserver.
 
    <img width="1910" height="715" alt="image" src="https://github.com/user-attachments/assets/01537b1d-ba5e-486a-9381-dfcc0e58e0a7" />
 
+## **TASK 4: Resize instance** 
+changing an instance in case its too small (over-utilised) or too large (under-utilised).
+**Stop instance**
+On management console &rarr; select instances (left pane) &rarr; selec webserver (checkbox) &rarr; select instant state &rarr; stop instance
+**Change instant type**
+In Actions menu &rarr; selectect instance settings &rarr; instance type &rarr; configure to new instance size &rarr; change instance type.
+**Resize EBS Volume
+Under Elastic Block Store (left pane) &rarr; volumes &rarr; check box &rarr; go to Actions &rarr; modify volume 
+**Start resized instance**
+Go back to instance &rarr; select webserver (check box) &rarr; instance state &rarr; start instance.
+
+
+
+
