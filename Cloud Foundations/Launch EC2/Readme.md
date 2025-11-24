@@ -8,5 +8,6 @@ Amazon EC2 makes it easy to set up and manage the computing power  needed with v
 Amazon EC2 shifts the way  computing costs are handled by letting customers pay only for the capacity they actually use. It also gives developers the tools they need to build applications that can handle failures and stay isolated from common issues, making systems more resilient overall.
 
 ## Architecture Diagrams
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/a18ad36cd5c1532a6bf7faede79f39d3721b4dc7/Cloud%20Foundations/Launch%20EC2/Launch%20EC2%202%20image.png)
 
 
