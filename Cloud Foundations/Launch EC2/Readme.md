@@ -23,7 +23,7 @@ select instance (check box next to instance) &rarr; navigate to status check tab
 
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/632bcb19885ff8ce83eedfa213738a28f4c57030/Cloud%20Foundations/Launch%20EC2/LAUNCH%20EC2%206.png)
 
-## **TASK3: Update security group and access webserver**
+### **TASK3: Update security group and access webserver**
 In this task, content was accessed from webserver.
 1. Select instance (check box) &rarr; select detals tab &rarr;copy public IP address to clipboard &rarr; in new tab, paste IP and enter.
 !NOTE: cammpt access server because security group is not allowing inbound traffic on port 80
@@ -31,7 +31,7 @@ In this task, content was accessed from webserver.
 
    <img width="1910" height="715" alt="image" src="https://github.com/user-attachments/assets/01537b1d-ba5e-486a-9381-dfcc0e58e0a7" />
 
-## **TASK 4: Resize instance** 
+### **TASK 4: Resize instance** 
 changing an instance in case its too small (over-utilised) or too large (under-utilised).
 
 **Stop instance**
@@ -46,7 +46,7 @@ Under Elastic Block Store (left pane) &rarr; volumes &rarr; check box &rarr; go 
 **Start resized instance**
 Go back to instance &rarr; select webserver (check box) &rarr; instance state &rarr; start instance.
 
-![image alt] (https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dcdd3d43c209d35c9d7dc94b8f23d27c75ec3ddd/Cloud%20Foundations/Launch%20EC2/CHANGE%20INSTANCE%20TYPE.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dcdd3d43c209d35c9d7dc94b8f23d27c75ec3ddd/Cloud%20Foundations/Launch%20EC2/CHANGE%20INSTANCE%20TYPE.png)
 
 ### TASK 5: Test termination protection
 When an instance is no longer needed, it can be deleted AKA terminated. once terminated, cannot be restarted or connected.
@@ -55,6 +55,9 @@ In instances &rarr; select webserver (check box) &rarr; actions menu &rarr; inst
 
 Select webserver (check box) &rarr;instance state &rarr; terminate (delete) instance. 
 
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8b405596b6effb96731ad0e4a9cec098b8a98f6e/Cloud%20Foundations/Launch%20EC2/Launch%20EC2%2011.png)
 
+## Conclusion
+By the end of this lab, solid knowledge and hands on understanding of how to work with EC2 instances was gained. with key benefits being launching an instance, monitor its health, update security groups for appropriate traffic, working with termination protection management and resizing both an instance type and its storage. overall, the lab demonstrates the power and flexibility of an EC2 instance- providing full control over computr resources while keeping it easy to scale, secure and manage instances effectively.
 
 
