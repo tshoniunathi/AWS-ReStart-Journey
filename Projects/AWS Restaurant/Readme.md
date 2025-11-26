@@ -31,9 +31,9 @@ The owner wants to use a static website to streamline customer interactions and 
   ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/c0677b8f00ddea369ba24873c0d1a3641c81d616/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20143519%20step%201.png)
 
 **Turn on static website hosting**
--In console: open bucket &rarr; go to properties &rarr; static website hosting &rarr;enable &rarr; choose **Host a static website** &rarr; set index document &rarr; save.
+- In console: open bucket &rarr; go to properties &rarr; static website hosting &rarr;enable &rarr; choose **Host a static website** &rarr; set index document &rarr; save.
 
-  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/aea0201339b982af251cedb4d2aa5fab3da1075e/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20151028%20stATIC%20WEBSITE%20HOSTING.png)
+ ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/aea0201339b982af251cedb4d2aa5fab3da1075e/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20151028%20stATIC%20WEBSITE%20HOSTING.png)
 
 **Allow public read**
 - S3 has public access blocked by deafault, so its best to use a bucket policy that allowspublic access
@@ -45,7 +45,7 @@ The owner wants to use a static website to streamline customer interactions and 
 - Console: Open the bucket → Upload → Add files/folders → Upload.
 - Once hosting enabled and files uploaded, open the bucket website endpoint &rarr; find the exact endpoint URL in the bucket Properties → Static website hosting. If index loads, hosting is successful.
 
- ![image alt]() 
+ ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/e02906bc1628d9f18bf41d34c067a442083a26e2/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20145322%202.2%20.png) 
 
 **Presentation**
 - There was also, a presentation on benefits of migrating to aws and restaurant overview. This presentation shows the ways in which  Migrating to AWS services offers organizations a modern, scalable, and cost-efficient  environment for running applications and data workloads. The process typically involves assessing existing systems, choosing the right AWS tools, and then moving resources into cloud services. Overall, migration enables businesses to modernize their infrastructure, reduce operational overhead, and take advantage of AWS’s global reliability and innovation. 
