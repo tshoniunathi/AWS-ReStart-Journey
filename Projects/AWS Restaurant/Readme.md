@@ -39,7 +39,7 @@ The owner wants to use a static website to streamline customer interactions and 
 - S3 has public access blocked by deafault, so its best to use a bucket policy that allowspublic access
 - Disable Block Public Access for the bucket (Permissions → Block public access → Edit → uncheck relevant settings and confirm)
   
-  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/63e4746cefb2316d211eac2af87c9f53deeebe65/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20143803%201.2.png)
+   ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/63e4746cefb2316d211eac2af87c9f53deeebe65/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20143803%201.2.png)
 
 **Upload files and test website**
 - Console: Open the bucket → Upload → Add files/folders → Upload.
@@ -52,7 +52,7 @@ The owner wants to use a static website to streamline customer interactions and 
 
 For a full walkthrough and visual breakdown, see presentation: 
 
- [![Presentation Thumbnail](./thumbnail.png)](./AWSpresentation.pdf)
+   [![Presentation Thumbnail](./thumbnail.png)](./AWSpresentation.pdf)
 
 
 
@@ -67,7 +67,7 @@ Completing a project that involves hosting a static website on Amazon S3 provide
 - Olivia Mahuluhulu: https://github.com/Aluwani-tec/AWS-re-start-journey
 - Amogelang Menwe : https://github.com/amogelangmenwe-ops
 - Nqobile Masango: https://github.com/nqobile-masango
-- Madimetja Galane: 
+- Madimetja Galane: https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey
 
 
 
