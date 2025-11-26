@@ -32,11 +32,12 @@ This repo serves as documentation and public record of my courses and progress m
 - [X] Bash Cell Scripting
 
 ### 🗃️ **Databases**
-- [ ] Create tables & learn different data types
-- [ ] Insert data into a database
-- [ ] Select data from a database
-- [ ] Build a database- interact with DB using an App
-- [ ] Introduction to Amazon DynamoDB
+- [X] Create tables & learn different data types
+- [X] Insert data into a database
+- [X] Select data from a database
+- [X] Build a database- interact with DB using an App
+- [X] Introduction to Amazon DynamoDB
+- [X] Build and access an RDS server
 
 ### 🌐 **Networking**
 - [ ] Public & Private IP Addresses
@@ -59,6 +60,26 @@ This repo serves as documentation and public record of my courses and progress m
 - 
 ---
 
+## 💾 Labs
+These are the links some of the labs.
+
+Cloud Foundations
+- Launching an  EC2
+  
+Linux
+- Managing File Permissions:
+- Bash Cell Scripting:
+- 
+Databases
+ - Build a database- interact with DB using an App:
+ - Introduction to Amazon DynamoDB:
+ - Build and access an RDS server:
+
+## 🖇️ Links to Projects
+- **Lab 1:** Hosting a static website in S3: 
+
+---
+
 ## 📝 Summaries
 Full detailed notes on each topic can be found in the dedicated folder (Notes) within this Repository.
 
@@ -79,12 +100,9 @@ Full detailed notes on each topic can be found in the dedicated folder (Notes) w
 - Essential for automation, scripting, and DevOps
 - Needed for managing files, processes, networking, permissions, and users
 
+### **Databses**
 
 
----
-
-## 🖇️ Links to Projects
-- **Lab 1:** Hosting a static website in S3
 
 ---
 
@@ -93,8 +111,8 @@ Full detailed notes on each topic can be found in the dedicated folder (Notes) w
 |--------------------|-------------|----------------------|
 | Cloud Foundations  |    ✅      |     October 2025     |
 | Linux              |    ✅      |     November 2025    |
-| Databases          |    ✔️      |     In Progress      |
-| Networking         |    ⏳      |       Loading        |
+| Databases          |    ✅      |     November 2025    |
+| Networking         |    ✔️      |     In Progress      |
 | Security           |    ⏳      |       Loading        |
 | Servers            |    ⏳      |       Loading        |
 
@@ -106,10 +124,9 @@ Full detailed notes on each topic can be found in the dedicated folder (Notes) w
 - Build DevOps automation projects
 
 ## 🤝Contributions
-This is  a personal learning repo, but i am open to suggestions, resources and tips.
+This is  a personal learning repo, but I am open to suggestions, resources and tips.
 
 ## 📧 Contact
-- **GitHub**: _tshoniunathi_
 - **email**: tshomiunathi@gmail.com
 
 
