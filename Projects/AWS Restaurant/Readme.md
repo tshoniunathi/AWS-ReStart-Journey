@@ -33,7 +33,7 @@ The owner wants to use a static website to streamline customer interactions and 
 **Turn on static website hosting**
 - In console: open bucket &rarr; go to properties &rarr; static website hosting &rarr;enable &rarr; choose **Host a static website** &rarr; set index document &rarr; save.
 
- ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/aea0201339b982af251cedb4d2aa5fab3da1075e/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20151028%20stATIC%20WEBSITE%20HOSTING.png)
+  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/aea0201339b982af251cedb4d2aa5fab3da1075e/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20151028%20stATIC%20WEBSITE%20HOSTING.png)
 
 **Allow public read**
 - S3 has public access blocked by deafault, so its best to use a bucket policy that allowspublic access
@@ -52,7 +52,7 @@ The owner wants to use a static website to streamline customer interactions and 
 
 For a full walkthrough and visual breakdown, see presentation: 
 
- [![PDF Preview](./images/slide1.png)](./presentation.pdf)
+ [![PDF Preview](./images/slide1.png)](./AWSpresentation.pdf)
 
 
 ## Conclusion
