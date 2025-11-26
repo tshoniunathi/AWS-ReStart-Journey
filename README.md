@@ -61,7 +61,7 @@ This repo serves as documentation and public record of my courses and progress m
 ---
 
 ## 💾 Labs
-These are the links some of the labs.
+These are the links to the labs in this repository on the topics covered.
 
 Cloud Foundations
 - Launching an  EC2: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/01_Cloud%20Foundations/Launch%20EC2
@@ -76,7 +76,7 @@ Databases
  - Build and access an RDS server:
 
 ## 🖇️ Links to Projects
-- **Lab 1:** Hosting a static website in S3: 
+- **Lab 1:** Hosting a static website in S3: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/3dc2d33ab4dafee5c9839efb3c0a0ce2992328e4/Projects/AWS%20Restaurant
 
 ---
 
