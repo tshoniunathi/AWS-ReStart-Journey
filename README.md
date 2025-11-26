@@ -64,7 +64,7 @@ This repo serves as documentation and public record of my courses and progress m
 These are the links to the labs in this repository on the topics covered.
 
 Cloud Foundations
-- Launching an  EC2: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/01_Cloud%20Foundations/Launch%20EC2
+- Launching an  EC2: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7b94908b6db45a4e27044ef5c1509e423a0d811a/Cloud%20Foundations/Launch%20EC2
   
 Linux
 - Managing File Permissions: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/Linux/Managing%20File%20Permissions
