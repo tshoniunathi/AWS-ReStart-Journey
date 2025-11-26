@@ -64,11 +64,11 @@ This repo serves as documentation and public record of my courses and progress m
 These are the links some of the labs.
 
 Cloud Foundations
-- Launching an  EC2
+- Launching an  EC2: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/01_Cloud%20Foundations/Launch%20EC2
   
 Linux
-- Managing File Permissions:
-- Bash Cell Scripting:
+- Managing File Permissions: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/Linux/Managing%20File%20Permissions
+- Bash Cell Scripting: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/Linux/Bash%20Cell%20Scripting
 - 
 Databases
  - Build a database- interact with DB using an App:
