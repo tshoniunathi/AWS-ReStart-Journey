@@ -52,7 +52,8 @@ The owner wants to use a static website to streamline customer interactions and 
 
 For a full walkthrough and visual breakdown, see presentation: 
 
- [![PDF Preview](./images/slide1.png)](./AWSpresentation.pdf)
+ [![Presentation Thumbnail](./thumbnail.png)](./AWSpresentation.pdf)
+
 
 
 ## Conclusion
