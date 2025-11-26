@@ -6,7 +6,7 @@ This repository documents my learning in AWS, focusing on Compute, Storage, Netw
 ---
 
 # 🏆 Badges
-*Coming soon...
+🚧 *Coming soon...
 
 ---
 
