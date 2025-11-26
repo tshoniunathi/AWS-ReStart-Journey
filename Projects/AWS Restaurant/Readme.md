@@ -39,7 +39,7 @@ The owner wants to use a static website to streamline customer interactions and 
 - S3 has public access blocked by deafault, so its best to use a bucket policy that allowspublic access
 - Disable Block Public Access for the bucket (Permissions → Block public access → Edit → uncheck relevant settings and confirm)
   
-  ![image alt]()
+  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/63e4746cefb2316d211eac2af87c9f53deeebe65/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20143803%201.2.png)
 
 **Upload files and test website**
 - Console: Open the bucket → Upload → Add files/folders → Upload.
@@ -52,6 +52,9 @@ The owner wants to use a static website to streamline customer interactions and 
 
 For a full walkthrough and visual breakdown, see presentation: 
 
+ [![PDF Preview](./images/slide1.png)](./presentation.pdf)
+
+
 ## Conclusion
 
 Completing a project that involves hosting a static website on Amazon S3 provides valuable, hands-on experience with real cloud infrastructure. Through this process, a solid understanding of how AWS storage services operate was gained, including bucket creation, object management, and website configuration. Tere was also a lesson on how to control access using bucket policies and public access settings, and how these security principles apply to real-world deployments. This project reinforces practical cloud skills. It also demonstrates how scalable, low-cost, serverless solutions like S3 can replace traditional web servers. Overall, this project builds foundational knowledge in cloud architecture, strengthens AWS proficiency.
@@ -60,10 +63,10 @@ Completing a project that involves hosting a static website on Amazon S3 provide
 
 ## 🤝 Collaborators
 
-Olivia Mahuluhulu: https://github.com/Aluwani-tec/AWS-re-start-journey 
-Amogelang Menwe : https://github.com/amogelangmenwe-ops
-Nqobile Masango: https://github.com/nqobile-masango
-Madimetja Galane: Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey: AWS-re-Start-Projects
+- Olivia Mahuluhulu: https://github.com/Aluwani-tec/AWS-re-start-journey
+- Amogelang Menwe : https://github.com/amogelangmenwe-ops
+- Nqobile Masango: https://github.com/nqobile-masango
+- Madimetja Galane: 
 
 
 
