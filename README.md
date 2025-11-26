@@ -6,7 +6,7 @@ This repository documents my learning in AWS, focusing on Compute, Storage, Netw
 ---
 
 # 🏆 Badges
-*Coming soon...
+🚧 *Coming soon...
 
 ---
 
@@ -32,11 +32,12 @@ This repo serves as documentation and public record of my courses and progress m
 - [X] Bash Cell Scripting
 
 ### 🗃️ **Databases**
-- [ ] Create tables & learn different data types
-- [ ] Insert data into a database
-- [ ] Select data from a database
-- [ ] Build a database- interact with DB using an App
-- [ ] Introduction to Amazon DynamoDB
+- [X] Create tables & learn different data types
+- [X] Insert data into a database
+- [X] Select data from a database
+- [X] Build a database- interact with DB using an App
+- [X] Introduction to Amazon DynamoDB
+- [X] Build and access an RDS server
 
 ### 🌐 **Networking**
 - [ ] Public & Private IP Addresses
@@ -59,6 +60,26 @@ This repo serves as documentation and public record of my courses and progress m
 - 
 ---
 
+## 💾 Labs
+These are the links to the labs in this repository on the topics covered.
+
+Cloud Foundations
+- Launching an  EC2: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/01_Cloud%20Foundations/Launch%20EC2
+  
+Linux
+- Managing File Permissions: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/Linux/Managing%20File%20Permissions
+- Bash Cell Scripting: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/Linux/Bash%20Cell%20Scripting
+- 
+Databases
+ - Build a database- interact with DB using an App:
+ - Introduction to Amazon DynamoDB:
+ - Build and access an RDS server:
+
+## 🖇️ Links to Projects
+- **Lab 1:** Hosting a static website in S3: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/3dc2d33ab4dafee5c9839efb3c0a0ce2992328e4/Projects/AWS%20Restaurant
+
+---
+
 ## 📝 Summaries
 Full detailed notes on each topic can be found in the dedicated folder (Notes) within this Repository.
 
@@ -79,12 +100,9 @@ Full detailed notes on each topic can be found in the dedicated folder (Notes) w
 - Essential for automation, scripting, and DevOps
 - Needed for managing files, processes, networking, permissions, and users
 
+### **Databses**
 
 
----
-
-## 🖇️ Links to Projects
-- **Lab 1:** Hosting a static website in S3
 
 ---
 
@@ -93,8 +111,8 @@ Full detailed notes on each topic can be found in the dedicated folder (Notes) w
 |--------------------|-------------|----------------------|
 | Cloud Foundations  |    ✅      |     October 2025     |
 | Linux              |    ✅      |     November 2025    |
-| Databases          |    ✔️      |     In Progress      |
-| Networking         |    ⏳      |       Loading        |
+| Databases          |    ✅      |     November 2025    |
+| Networking         |    ✔️      |     In Progress      |
 | Security           |    ⏳      |       Loading        |
 | Servers            |    ⏳      |       Loading        |
 
@@ -106,10 +124,9 @@ Full detailed notes on each topic can be found in the dedicated folder (Notes) w
 - Build DevOps automation projects
 
 ## 🤝Contributions
-This is  a personal learning repo, but i am open to suggestions, resources and tips.
+This is  a personal learning repo, but I am open to suggestions, resources and tips.
 
 ## 📧 Contact
-- **GitHub**: _tshoniunathi_
 - **email**: tshomiunathi@gmail.com
 
 

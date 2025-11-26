@@ -45,14 +45,15 @@ The owner wants to use a static website to streamline customer interactions and 
 - Console: Open the bucket → Upload → Add files/folders → Upload.
 - Once hosting enabled and files uploaded, open the bucket website endpoint &rarr; find the exact endpoint URL in the bucket Properties → Static website hosting. If index loads, hosting is successful.
 
- ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/e02906bc1628d9f18bf41d34c067a442083a26e2/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20145322%202.2%20.png) 
+   ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/e02906bc1628d9f18bf41d34c067a442083a26e2/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20145322%202.2%20.png) 
 
 **Presentation**
 - There was also, a presentation on benefits of migrating to aws and restaurant overview. This presentation shows the ways in which  Migrating to AWS services offers organizations a modern, scalable, and cost-efficient  environment for running applications and data workloads. The process typically involves assessing existing systems, choosing the right AWS tools, and then moving resources into cloud services. Overall, migration enables businesses to modernize their infrastructure, reduce operational overhead, and take advantage of AWS’s global reliability and innovation. 
 
 For a full walkthrough and visual breakdown, see presentation: 
 
- [![PDF Preview](./images/slide1.png)](./AWSpresentation.pdf)
+ [![Presentation Thumbnail](./thumbnail.png)](./AWSpresentation.pdf)
+
 
 
 ## Conclusion
