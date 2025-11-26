@@ -11,7 +11,7 @@ The owner wants to use a static website to streamline customer interactions and 
 - Host the website on an Amazon S3
 - Presentation on the benefits of AWS Migration
 
-##Steps taken
+## Steps taken
 
 ### **Build Static Website**
 
@@ -28,7 +28,7 @@ The owner wants to use a static website to streamline customer interactions and 
 **Create bucket**
 - In console: search S3 &rarr; create bucket &rarr; choose a unique name
 
-  ![image alt]()
+  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/c0677b8f00ddea369ba24873c0d1a3641c81d616/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20143519%20step%201.png)
 
 **Turn on static website hosting**
 -In console: open bucket &rarr; go to properties &rarr; static website hosting &rarr;enable &rarr; choose **Host a static website** &rarr; set index document &rarr; save.
@@ -52,13 +52,21 @@ The owner wants to use a static website to streamline customer interactions and 
 
 For a full walkthrough and visual breakdown, see presentation: 
 
-## conclusion
+## Conclusion
 
 Completing a project that involves hosting a static website on Amazon S3 provides valuable, hands-on experience with real cloud infrastructure. Through this process, a solid understanding of how AWS storage services operate was gained, including bucket creation, object management, and website configuration. Tere was also a lesson on how to control access using bucket policies and public access settings, and how these security principles apply to real-world deployments. This project reinforces practical cloud skills. It also demonstrates how scalable, low-cost, serverless solutions like S3 can replace traditional web servers. Overall, this project builds foundational knowledge in cloud architecture, strengthens AWS proficiency.
 
   
 
-## Collaborators
+## 🤝 Collaborators
+
+Olivia Mahuluhulu: https://github.com/Aluwani-tec/AWS-re-start-journey 
+Amogelang Menwe : https://github.com/amogelangmenwe-ops
+Nqobile Masango: https://github.com/nqobile-masango
+Madimetja Galane: Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey: AWS-re-Start-Projects
+
+
+
 
 
 
