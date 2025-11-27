@@ -10,7 +10,7 @@ DynamoDB is a fast and flexible NoSQL database service for applications that nee
 - Give table a minute or so to create. Once created go to task 2.
 !NOTICE: when entering key values be mindful of chosen data types: eg string for words, number for numerics
 
- ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DyanmoDB%20task%201.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DyanmoDB%20task%201.png)
  
 ### **Task 2: Add data**
 - Choose table &rarr; Actions &rarr; create item.
@@ -19,29 +19,29 @@ DynamoDB is a fast and flexible NoSQL database service for applications that nee
 - for more attribute &rarr; add new attribute &rarr; choose data type &rarr; enter data for chosen attributes &rarr; create item
 - To add more data &rarr; repeat the steps above in task 2.
 
- ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/Dynamo%20DB%20Task%202.1.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/Dynamo%20DB%20Task%202.1.png)
   
 ### **Task 3: Modify an existing data item**
 - This is neccesary if theres an error in existing item
 - In DynamoDB dashboard: choose explore items &rarr; choose music button &rarr; choose item with error &rarr; ammend erred attribute &rarr; save changes. Item should be updated.
   
- ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DynamoDB%20Task%203.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DynamoDB%20Task%203.png)
 
 ### **Task 4: Query the table**
 - There are 2 ways to query a table in DynamoDB: Query and scan
 - To query: provide partion and sort key &rarr; run. Only tems associated with entered keys will show up in the results.
 
-  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DynamoDB%20Task%204%20QUERY.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DynamoDB%20Task%204%20QUERY.png)
   
 - To scan: expand filters &rarr; provide attribute name, type and value &rarr; run. Only items associate with the provided attributes will show up in the results.
 
- ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DynamoDB%20Task%204%20SCAN.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/DynamoDB%20Task%204%20SCAN.png)
 
 ### **Task 5: Delete the table**
 - In DynamoDb dashboard: under tables &rarr; Update settings &rarr; choose table &rarr; Actions &rarr; delete table.
 - On confirmation panel will pop up, follw prompt &rarr; delete table
 
- ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/Intro%20to%20DyanmoDB%2008.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/Intro%20to%20DyanmoDB%2008.png)
  
 ## Overall learning experience
 **Challenges**
