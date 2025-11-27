@@ -47,6 +47,17 @@ The owner wants to use a static website to streamline customer interactions and 
 
    ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/e02906bc1628d9f18bf41d34c067a442083a26e2/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20145322%202.2%20.png) 
 
+## Overall learning experience
+**Challenges**
+- Public access- the struggle was with why the site was not opening and showing a "forbidden" message, blocked public access and figuring which JSON policy to use.
+- HTTPS/HTTP confusion- the challenge was that browser on https blocks the site and the site is considered to be not secure.
+- File structure and case sensitivity- the challenge was that Images were not loading, and being inaware of case-sensitivity (Index.html istead of index.html).
+
+**Wins**
+- Practical understanding of cloud storage concepts- how objects are stored, how bucket URLs work and the differences between normal and cloud storage
+- learning about IAM and access controls- gained experienced on bucket policies, difference between public and private access, building confidence with AWS permissions.
+- Hnads-on experience with static site architecture- clears understanding on what static hosting means, and the lack of a server, improving knowledge of how websites actually work.
+
 **Presentation**
 - There was also, a presentation on benefits of migrating to aws and restaurant overview. This presentation shows the ways in which  Migrating to AWS services offers organizations a modern, scalable, and cost-efficient  environment for running applications and data workloads. The process typically involves assessing existing systems, choosing the right AWS tools, and then moving resources into cloud services. Overall, migration enables businesses to modernize their infrastructure, reduce operational overhead, and take advantage of AWS’s global reliability and innovation. 
 
@@ -54,13 +65,9 @@ For a full walkthrough and visual breakdown, see presentation:
 
    [![Presentation Thumbnail](./thumbnail.png)](./AWSpresentation.pdf)
 
-
-
 ## Conclusion
 
 Completing a project that involves hosting a static website on Amazon S3 provides valuable, hands-on experience with real cloud infrastructure. Through this process, a solid understanding of how AWS storage services operate was gained, including bucket creation, object management, and website configuration. Tere was also a lesson on how to control access using bucket policies and public access settings, and how these security principles apply to real-world deployments. This project reinforces practical cloud skills. It also demonstrates how scalable, low-cost, serverless solutions like S3 can replace traditional web servers. Overall, this project builds foundational knowledge in cloud architecture, strengthens AWS proficiency.
-
-  
 
 ## 🤝 Collaborators
 
@@ -68,12 +75,3 @@ Completing a project that involves hosting a static website on Amazon S3 provide
 - Amogelang Menwe : https://github.com/amogelangmenwe-ops
 - Nqobile Masango: https://github.com/nqobile-masango
 - Madimetja Galane: https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey
-
-
-
-
-
-
-
-
-
