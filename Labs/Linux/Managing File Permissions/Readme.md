@@ -41,6 +41,21 @@ to validate the changes &rarr; 'ls -laR' &rarr; enter
 
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/67a00a331f9ab8bb3bbf8b45d5ded84e8c35b70d/Linux/Managing%20File%20Permissions/Images/Linux%20Managing%20File%20Permissions%2003.png)
 
+## Overall learning experience
+**Challenges**
+- struggle with connecting and using Linux terminal- difficulting connecting SSH with all the right permissions
+- file systems- navigating file systems was a bit tricky and the commands were strange
+- difficulty understanding permissions strings and symbols and telling folders apart
+- 'chmod' symbols- not knowing when or why numbers are being used with chmod instead of letters or symbols
+- Confusion with file permissions- the meanings of the symbols
+- Lack of visual interface.
+
+**Wins**
+- learning how remote access works, connecting to an external server and got comfortable running basic commands
+- Understanding Linux security- protecting files, roles and the principle of least privilege
+- Ability to control access files- learn how to modify permissions and which commnads to use and when.
+- Imroved commnand line confidence and troubleshooting skills
+  
 ## Conclusion
 
 Effectively managing file permissions helps maintain the integrity and security of a Linux system. It demonstrates a strong understanding of Linux security principles and the ability to control access to critical resources, a fundamental skill valued in system administration and development environments.
