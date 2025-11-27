@@ -57,7 +57,7 @@ Select webserver (check box) &rarr;instance state &rarr; terminate (delete) inst
 
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8b405596b6effb96731ad0e4a9cec098b8a98f6e/Cloud%20Foundations/Launch%20EC2/Launch%20EC2%2011.png)
 
-## Overall learnign experience
+## Overall learning experience
 **Challenges**
 - Confusion with security groups- struggling with the understanding and difference between inbound and outbound rules, identifying ports and why port 22 is needed.
 - instance failure- instance refusing to connect or connection being "timed out".
