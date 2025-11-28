@@ -26,7 +26,7 @@ select instance (check box next to instance) &rarr; navigate to status check tab
 ### **TASK3: Update security group and access webserver**
 In this task, content was accessed from webserver.
 1. Select instance (check box) &rarr; select detals tab &rarr;copy public IP address to clipboard &rarr; in new tab, paste IP and enter.
-!NOTE: cammpt access server because security group is not allowing inbound traffic on port 80
+!NOTE: cannot access server because security group is not allowing inbound traffic on port 80
 2. In management console &rarr; Network & security (left pane) &rarr; security groups &rarr; webserver security group (check box) &rarr; select inbound rules &rarr; add rule &rarr; configure type and source &rarr; save rules
 
    <img width="1910" height="715" alt="image" src="https://github.com/user-attachments/assets/01537b1d-ba5e-486a-9381-dfcc0e58e0a7" />
@@ -56,6 +56,15 @@ In instances &rarr; select webserver (check box) &rarr; actions menu &rarr; inst
 Select webserver (check box) &rarr;instance state &rarr; terminate (delete) instance. 
 
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8b405596b6effb96731ad0e4a9cec098b8a98f6e/Cloud%20Foundations/Launch%20EC2/Launch%20EC2%2011.png)
+
+## Overall learning experience
+**Challenges**
+- Confusion with security groups- struggling with the understanding and difference between inbound and outbound rules, identifying ports and why port 22 is needed.
+- instance failure- instance refusing to connect or connection being "timed out".
+
+**Wins**
+- practical application of cloud computing- understanding instance types and what instances are.
+- Successful launch of the first server- choosing an instance type, choosing an AMI, configuring networking and launching a running instance.
 
 ## Conclusion
 By the end of this lab, solid knowledge and hands on understanding of how to work with EC2 instances was gained. with key benefits being launching an instance, monitor its health, update security groups for appropriate traffic, working with termination protection management and resizing both an instance type and its storage. overall, the lab demonstrates the power and flexibility of an EC2 instance- providing full control over computr resources while keeping it easy to scale, secure and manage instances effectively.
