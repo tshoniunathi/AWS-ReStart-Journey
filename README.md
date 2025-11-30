@@ -11,7 +11,7 @@ This repository documents my learning in AWS, focusing on Compute, Storage, Netw
 ---
 
 ## 🎯 Purpose Of This Repo
-This repo serves as documentation and public record of my courses and progress made in my Cloud Computing journey.
+This repo serves as documentation and public record of my courses and progress made in my Cloud Computing journey with the aws restart program.
 
 ---
 
