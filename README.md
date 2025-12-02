@@ -11,7 +11,7 @@ This repository documents my learning in AWS, focusing on Compute, Storage, Netw
 ---
 
 ## 🎯 Purpose Of This Repo
-This repo serves as documentation and public record of my courses and progress made in my Cloud Computing journey.
+This repo serves as documentation and public record of my courses and progress made in my Cloud Computing journey with the aws restart program.
 
 ---
 
@@ -60,23 +60,6 @@ This repo serves as documentation and public record of my courses and progress m
 - 
 ---
 
-## 💾 Labs
-These are the links to the labs in this repository on the topics covered.
-
-Cloud Foundations
-- Launching an  EC2: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7b94908b6db45a4e27044ef5c1509e423a0d811a/Cloud%20Foundations/Launch%20EC2
-  
-Linux
-- Managing File Permissions: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/Linux/Managing%20File%20Permissions
-- Bash Cell Scripting: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/7a0dad1cffcf26ef5bf108908cf54f571da252a3/Linux/Bash%20Cell%20Scripting
-- 
-Databases
- - Build a database- interact with DB using an App:
- - Introduction to Amazon DynamoDB:
- - Build and access an RDS server:
-
-## 🖇️ Links to Projects
-- **Lab 1:** Hosting a static website in S3: https://github.com/tshoniunathi/AWS-ReStart-Journey/tree/3dc2d33ab4dafee5c9839efb3c0a0ce2992328e4/Projects/AWS%20Restaurant
 
 ---
 
