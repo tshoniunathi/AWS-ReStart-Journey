@@ -1,4 +1,4 @@
-# 🧠 My AWS ReStart learning Journey
+# My AWS ReStart learning Journey
 
 Hello, My name is Unathi Tshoni 👋
 This repository documents my learning in AWS, focusing on Compute, Storage, Networking, Security, Security, Databases, Automation, Architechture and ML/AI to build scalable, secure and intelligent systems. 
