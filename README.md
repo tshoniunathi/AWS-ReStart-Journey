@@ -40,51 +40,25 @@ This repo serves as documentation and public record of my courses and progress m
 - [X] Build and access an RDS server
 
 ### 🌐 **Networking**
-- [ ] Public & Private IP Addresses
-- [ ] Static & Dynamic IP Addresses
-- [ ] Create subnets in a VPC
-- [ ] Internet Protocol Troubleshooting  Commands
-- [ ] Build a VPC & Launch a webserver
+- [X] Public & Private IP Addresses
+- [X] Static & Dynamic IP Addresses
+- [X] Create subnets in a VPC
+- [X] Internet Protocol Troubleshooting  Commands
+- [X] Build a VPC & Launch a webserver
 
 ### 🔐 **Security**
-- [ ] Network Hardening
-- [ ] Systems Hardening
-- [ ] Data Protection
-- [ ] Introduction to Identity and Access Management (IAM)
-- [ ] Monitor an EC2 Instance
+- [X] Network Hardening
+- [X] Systems Hardening
+- [X] Data Protection
+- [X] Introduction to Identity and Access Management (IAM)
+- [X] Monitor an EC2 Instance
 
 ### ⚙️ **Servers
-- [ ] Create website on S3
-- [ ] Create Amazon EC2 Instances
-- [ ] Troubleshoot create Instance
+- [X] Create website on S3
+- [X] Create Amazon EC2 Instances
+- [X] Troubleshoot create Instance
 - 
 ---
-
-
----
-
-## 📝 Summaries
-Full detailed notes on each topic can be found in the dedicated folder (Notes) within this Repository.
-
-### **Cloud Foundations**
-- Cloud Computing- delivery of computing services over the internet, with pay as you go convinience.
-- Cloud Deployment Models- Puplic Cloud, Private Cloud & Hybrid Cloud.
-- Cloud Service Models- IaaS, Paas & SaaS
-- AWS Global Infrastructure- Regions, Availability Zones, Edge Locations.etc...
-- Shared Responsibility Model- AWS VS Customer
-- Core AWS Services- Compute, Storage, Databases, Networking & Security
-- Elasiticity, Scalability & High Availability
-- Pricing & Cost Optimisation - tools & best practices
-
-### **Linux**
-- Open source operating system used in servers, cloud environments, cybersecurity and DevOps.
-- Important for AWS Services- EC2, Lambda runtimes & containers
-- Most cloud servers run Linux
-- Essential for automation, scripting, and DevOps
-- Needed for managing files, processes, networking, permissions, and users
-
-### **Databses**
-
 
 
 ---
@@ -95,9 +69,10 @@ Full detailed notes on each topic can be found in the dedicated folder (Notes) w
 | Cloud Foundations  |    ✅      |     October 2025     |
 | Linux              |    ✅      |     November 2025    |
 | Databases          |    ✅      |     November 2025    |
-| Networking         |    ✔️      |     In Progress      |
-| Security           |    ⏳      |       Loading        |
-| Servers            |    ⏳      |       Loading        |
+| Networking         |    ✅      |     November 2025    |
+| Security           |    ✅      |     December 2025    |
+| Servers            |    ✅      |     December 2025    |
+| Storage            |    ✅      |     December 2025    |
 
 ---
 
