@@ -53,7 +53,7 @@ This repo serves as documentation and public record of my courses and progress m
 - [X] Introduction to Identity and Access Management (IAM)
 - [X] Monitor an EC2 Instance
 
-### ⚙️ **Servers
+### ⚙️ **Servers**
 - [X] Create website on S3
 - [X] Create Amazon EC2 Instances
 - [X] Troubleshoot create Instance
