@@ -14,8 +14,7 @@ This lab was desined to reinforce the concept of leveraging an aws managed datab
 - In add subnets section: for availability zone &rarr;I clicked the dropdown menu &rarr; and selected the first and second AZ.
 - For subnets &rarr; I clicked dropdown menu &rarr; and selected CIDR blocks for the AZs &rarr; and pressed create.
 
-![image alt]([https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/562553133c7da7be2e606d9ba5f2a0c2c0d76003/Labs/Databases/Build%20DB%20for%20App/Images/DB%20Server%203.png](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/2b42dc3907a3a48663b5d8e58058506375df6781/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%204.png)
-
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/2b42dc3907a3a48663b5d8e58058506375df6781/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%204.png)
 ### **Task 3: Create an Amazon RDS DB instance**
 - In left navigation pane: I clicked on databases &rarr; and chose full configuration (standard create)
 - In Engine options &rarr; I chose type &rarr; engine version (latest) &rarr; templates &rarr; Deve/Test &rarr; availability and durability &rarr; choose DB instance.
