@@ -34,7 +34,7 @@ This lab was desined to reinforce the concept of leveraging an aws managed datab
 
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/562553133c7da7be2e606d9ba5f2a0c2c0d76003/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%2012.png)
 
-![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/562553133c7da7be2e606d9ba5f2a0c2c0d76003/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%2014.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/1ceb5855b87a189424a3a74de6508f54eae0da1b/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%2014.png)
 - the result were the database storing information that is editable, deletable and more information could be added.
 
 ## Overall Learning experience
