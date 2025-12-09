@@ -1,4 +1,4 @@
-## ⚗️SimuLearn: File system in the cloud
+## ⚗️SimuLearn- File system in the cloud
 
 ### Overview
 In this assignment I reviewed a real world scenario where I helped a pet modeling agency find a way to share files across its branch offices wuthout managing a physical storage infrastructure.
