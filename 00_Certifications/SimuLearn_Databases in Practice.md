@@ -1,4 +1,4 @@
-## ⚗️SimuLearn: Databases in Practice Certificate
+## ⚗️SimuLearn- Databases in Practice Certificate
 
 ### Overview
 In this assignment I reviewed a real world scenario where an insurance company wanted to help their DB administrators spend less time in operational tasks like patching and managinf DB infrastructure; they also wanted a solution that will improve database availability and efficiency.
