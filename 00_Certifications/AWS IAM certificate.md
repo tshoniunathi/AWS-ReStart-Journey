@@ -1,1 +1,2 @@
-
+AWS IAM Certificate
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dc770460c7f27fb216ea153353fd667f8c65b6dc/00_Certifications/Assets/AWS%20IAM%20CERT_page-0001.jpg)
