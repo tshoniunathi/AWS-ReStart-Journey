@@ -3,6 +3,13 @@
 ## Overview
 This lab was desined to reinforce the concept of leveraging an aws managed database instance for solving relational database needs. The objectives of this lab was to launch an RDS DB instance, configure it to permit connections from web server and open a web application to interact with the database. 
 
+## Infrastructure
+**Before the beginning of the lab**
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/62aa55ca047071ca9036b442bcf036b39adf5435/Labs/Databases/Build%20DB%20for%20App/Images/SERVER%20START.png)
+
+**After the lab has been completed**
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/62aa55ca047071ca9036b442bcf036b39adf5435/Labs/Databases/Build%20DB%20for%20App/Images/SERVER%20AFTER.png)
+
 ## Steps taken to achieve these objectives
 ### **Task 1: Created a security group for the RDS instance**
 - In console: I went to services menu &rarr; Network & content delivery &rarr; and chose VPC
