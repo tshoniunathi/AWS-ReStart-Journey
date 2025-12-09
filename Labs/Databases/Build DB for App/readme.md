@@ -26,7 +26,7 @@ This lab was desined to reinforce the concept of leveraging an aws managed datab
 - Under monitoring: I disabled enhanced monitoring
 - Under additional configuration: I configured initial database name &rarr; disable automated backups &rarr; and create database &rarr; this resulted in a wationg time of ~4 minutes before it was available &rarr; I wnet connectivity and security &rarr; and copied endpoint (saved for later)
 
-![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/562553133c7da7be2e606d9ba5f2a0c2c0d76003/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%206.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/d199f404dab031ba6afa5dbe9a44744a9e13f89a/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%206.png)
 
 ### **Task 4: Interact with DB**
 - in this task, I Copied the webserver IP address &rarr; opened a new web browser tab &rarr; pasted IP.
