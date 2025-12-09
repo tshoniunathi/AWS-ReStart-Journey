@@ -41,7 +41,7 @@ DynamoDB is a fast and flexible NoSQL database service for applications that nee
 - In DynamoDb dashboard: under tables &rarr; Update settings &rarr; choose table &rarr; Actions &rarr; delete table.
 - On confirmation panel will pop up, follw prompt &rarr; delete table
 
-![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8ccbe0ca18d63359dc96719aaf5240fc86a01703/Labs/Databases/Intro%20to%20DynamoDB/Images/Intro%20to%20DyanmoDB%2008.png)
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/b01e12f774f928fdbab0220093a053b7bb3d05d4/Labs/Databases/Intro%20to%20DynamoDB/Images/Intro%20to%20DyanmoDB%2008.png)
  
 ## Overall learning experience
 **Challenges**
