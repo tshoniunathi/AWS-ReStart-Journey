@@ -9,6 +9,8 @@ This lab was desined to reinforce the concept of leveraging an aws managed datab
 - In left pane: I clicked on security group &rarr; created security group &rarr; then configured a security group name, description and chose VPC of choice.
 - In inbound rules: I added a new rule &rarr; and configured type and source &rarr; and then created a security group
 
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/a0b9e9780f9642700e51d882de3a14af9e5bd1af/Labs/Databases/Build%20DB%20for%20App/Images/DB%20SERVER%202.png)
+
 ### **Task 2: Created a DB subnet group**
 - In console: I went to service menu &rarr; chose databases &rarr; RDS &rarr; then subnet groups (left pane) &rarr; and create DB subnet group &rarr; configured name, description and VPC ID.
 - In add subnets section: for availability zone &rarr;I clicked the dropdown menu &rarr; and selected the first and second AZ.
