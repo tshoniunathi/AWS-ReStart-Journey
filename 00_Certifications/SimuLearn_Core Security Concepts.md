@@ -1,4 +1,4 @@
-## ⚗️SimuLearn: Core Security Concepts Certificate
+## ⚗️SimuLearn- Core Security Concepts Certificate
 
 ### Overview
 In this assignment i reviewed a real life scenario where the Stock Exchange wanted to restrict the support engineers' system access control to only those acrtions required for their specific roles, enhancing overall security controls. 
