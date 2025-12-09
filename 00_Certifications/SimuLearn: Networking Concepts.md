@@ -1,4 +1,4 @@
-## ⚗️SimuLearn: Networking concepts
+## ⚗️SimuLearn- Networking concepts
 
 ### Overview
 This is an assignment where i got to review a real world scenario helping a fictional bank establish a netwrok architecture that securely controls communication between its internal sources and the internet. 
