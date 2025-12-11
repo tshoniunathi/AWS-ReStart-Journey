@@ -27,7 +27,7 @@ This is a short course that introduces Identity and Access Management (IAM). It 
 
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dc770460c7f27fb216ea153353fd667f8c65b6dc/00_Certifications/Assets/AWS%20IAM%20CERT_page-0001.jpg)
 
-## ⚗️SimuLearn- Core Security Concepts Certificate
+### ⚗️SimuLearn- Core Security Concepts Certificate
 
 **Overview**
 
@@ -36,5 +36,18 @@ In this assignment I reviewed a real life scenario where the Stock Exchange want
 ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/973713b9042b83e7b65fcfd0c125e17e186df89b/00_Certifications/Assets/SL_AWS%20SECURITY%20CONCEPTS_page-0001.jpg)
 
 Focus: IAM roles, security groups, encryption, and monitoring of security best practices.
+
+### ⚗️SimuLearn- Databases in Practice Certificate
+
+**Overview**
+In this assignment I reviewed a real world scenario where an insurance company wanted to help their DB administrators spend less time in operational tasks like patching and managinf DB infrastructure; they also wanted a solution that will improve database availability and efficiency.
+
+![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/8dae2cf23429af78e438623cc1bd9224c24d2914/00_Certifications/Assets/SL_AWS%20DBs%20IN%20PRACTICE_page-0001.jpg)
+
+Focus: Configured secure RDS DBs and connections, performed SQL queries to manage and interact with application data.
+
+
+
+
 
 
