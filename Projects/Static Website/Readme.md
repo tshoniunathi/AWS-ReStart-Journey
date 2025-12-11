@@ -15,35 +15,35 @@ The owner wants to use a static website to streamline customer interactions and 
 
 ### **Build Static Website**
 
-- Build a website &rarr; make it user friendly with clean and minimal design
-- Make sure it meets the requirements and needs of the client.
+- We build a website &rarr; making it user friendly with clean and minimal design
+- We made sure it meets the requirements and needs of the client.
 
   ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/3317d56f1e17f950fc7dff84878a475c2943495d/Projects/AWS%20Restaurant/S3%20Bucket/Website%20mockup.png)
 
 ### **Host Website on S3**
 
-**prepare the website files** 
-- Create a local folder  for files &rarr; html, css and assets
+**Prepare the website files** 
+- We created a local folder  for files &rarr; html, css and assets
 
 **Create bucket**
-- In console: search S3 &rarr; create bucket &rarr; choose a unique name
+- In the console: we searched for S3 &rarr; created a bucket &rarr; and chose a unique name
 
   ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/c0677b8f00ddea369ba24873c0d1a3641c81d616/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20143519%20step%201.png)
 
 **Turn on static website hosting**
-- In console: open bucket &rarr; go to properties &rarr; static website hosting &rarr;enable &rarr; choose **Host a static website** &rarr; set index document &rarr; save.
+- In console: we opened bucket &rarr; went to properties &rarr; static website hosting &rarr;enabled &rarr; chose **Host a static website** &rarr; set index document &rarr; and saved.
 
   ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/aea0201339b982af251cedb4d2aa5fab3da1075e/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20151028%20stATIC%20WEBSITE%20HOSTING.png)
 
 **Allow public read**
-- S3 has public access blocked by deafault, so its best to use a bucket policy that allowspublic access
-- Disable Block Public Access for the bucket (Permissions → Block public access → Edit → uncheck relevant settings and confirm)
+- S3 has public access blocked by deafault, we then had to configure a bucket policy that allows public access
+- We disable Block Public Access for the bucket (Permissions → Block public access → Edit → uncheck relevant settings and confirm)
   
    ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/63e4746cefb2316d211eac2af87c9f53deeebe65/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20143803%201.2.png)
 
 **Upload files and test website**
-- Console: Open the bucket → Upload → Add files/folders → Upload.
-- Once hosting enabled and files uploaded, open the bucket website endpoint &rarr; find the exact endpoint URL in the bucket Properties → Static website hosting. If index loads, hosting is successful.
+- Console: We opened the bucket → Upload → Add files/folders → Upload.
+- Once hosting was enabled and files uploaded, we open the bucket website endpoint &rarr; found the exact endpoint URL in the bucket Properties → Static website hosting. Index loads,  a sign of successful hosting.
 
    ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/e02906bc1628d9f18bf41d34c067a442083a26e2/Projects/AWS%20Restaurant/S3%20Bucket/Screenshot%202025-11-10%20145322%202.2%20.png) 
 
