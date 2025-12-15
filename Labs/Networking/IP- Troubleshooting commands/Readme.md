@@ -8,7 +8,7 @@ This is a hands-on lab focused on internet Protocol (IP) troubleshooting command
 - I successfully accessed the AWS Management Console and launched the lab environment. Once the lab status was ready, I connected to an Amazon Linux EC2 instance using SSH with key-based authentication.
 - After establishing secure access, I practiced a series of troubleshooting commands aligned with the OSI model.
 
- !@[image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/3f793e7ea6f154f87e22cb048c2ebe4da1ca32ec/Labs/Networking/IP-%20Troubleshooting%20commands/IP%20troubleshooting%20commands.png)
+ ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/3f793e7ea6f154f87e22cb048c2ebe4da1ca32ec/Labs/Networking/IP-%20Troubleshooting%20commands/IP%20troubleshooting%20commands.png)
 
 ### **Task 2: Practice troubleshooting commands**
 **Layer 3 (Network Layer)**
@@ -42,6 +42,5 @@ Throughout the lab, I related each command to practical customer scenarios, such
 - Improved understanding of real-world customer network scenarios
 
 ## Conclusion
-Conclusion
 
 By completing this lab, I achieved a practical understanding of core IP troubleshooting commands and how they align with the OSI model. I successfully applied these tools to simulate real customer issues, ranging from basic connectivity problems to application-level failures. Overall, the lab strengthened my network troubleshooting skills, improved my confidence in supporting AWS-based workloads, and provided a structured approach to identifying and resolving networking issues efficiently.
