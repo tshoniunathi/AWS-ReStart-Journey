@@ -20,7 +20,8 @@ I patched Linux instances using a default patch baseline, created a custom patch
 - I initiated the patching process and monitored the execution
 - I confirmed that all three Linux instances were successfully patched
 
-
+  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dc5d63d11d51a629e27c42851359c38a0e3f44bf/Labs/Security/Systems%20Hardening/systems%20hardening%20patch%20manager%2003.png)
+  
 **Task 2: Create a Custom Patch Baseline for Windows**
 - I returned to Patch Manager and opened the Patch baselines tab
 - I created a new patch baseline with the following settings:
@@ -39,6 +40,8 @@ I patched Linux instances using a default patch baseline, created a custom patch
 - I created the patch baseline successfully
 - I associated the patch baseline with the patch group WindowsProd
 
+  ![imag alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dc5d63d11d51a629e27c42851359c38a0e3f44bf/Labs/Security/Systems%20Hardening/systems%20hardening%20patch%20manager%2004.png)
+  
 **Task 3: Patch Windows Instances Using Custom Baseline**
   **Task 3.1: Tag Windows Instances**
   - I opened the EC2 console and selected each Windows instance
@@ -55,6 +58,8 @@ I patched Linux instances using a default patch baseline, created a custom patch
   - I reviewed the Execution ID and monitored patch execution through Run Command
   - I confirmed that the correct patch group and baseline were applied
 
+  ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dc5d63d11d51a629e27c42851359c38a0e3f44bf/Labs/Security/Systems%20Hardening/systems%20hardening%20patch%20manager%2006.png)
+  
 **Task 4: Verify Patch Compliance**
 - I navigated to the Patch Manager Dashboard
 - I confirmed that the Compliance summary showed all six instances as compliant
@@ -67,6 +72,8 @@ I patched Linux instances using a default patch baseline, created a custom patch
   - Baseline ID
 - I opened a Windows instance record to review applied patches and installation times
 
+   ![image alt](https://github.com/tshoniunathi/AWS-ReStart-Journey/blob/dc5d63d11d51a629e27c42851359c38a0e3f44bf/Labs/Security/Systems%20Hardening/systems%20hardening%20patch%20manager%2007.png)
+  
 ## Overall Learning Experience
 **Challenges**
 - Understanding the relationship between patch baselines and patch groups
